@@ -37,11 +37,3 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ErikEatsDoritos.ErikEatsDoritos&"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ErikEatsDoritos/ErikEatsDoritos/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
