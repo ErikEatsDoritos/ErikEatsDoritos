@@ -1,5 +1,16 @@
 <h2 align="left">Hi there👋!</h2>
 
+<p align="center">
+  <img src="./isocalendar.svg" alt="GitHub Isometric Calendar" width="49%" align="top">
+  <img src="./languages_overall.svg" alt="Overall Languages Stats" width="49%" align="top">
+</p>
+
+<p align="center">
+  <img src="./habits.svg" alt="Coding Habits" width="49%" align="top">
+  <img src="./lines.svg" alt="Lines changed" width="49%" align="top">
+</p>
+
+
 ###
 
 <p align="left">My name is Erik and I am currently a student!</p>
